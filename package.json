@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "Allows you to convert PNG image files to/from N64 CI format. This is temporary until queueRAM adds CI support into his official n64graphics tool. This tool does not process RGBA, IA, or I textures, use n64graphics for those.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"warning no tests created yet\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthReggie69/lab3-.git"
+  },
+  "keywords": [],
+  "author": "Yousef Said",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarthReggie69/lab3-/issues"
+  },
+  "homepage": "https://github.com/DarthReggie69/lab3-#readme"
+}
